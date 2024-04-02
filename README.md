@@ -20,12 +20,4 @@ I'm [NIdhin XaVier], a passionate [digital craftsman] from [india]. Welcome to m
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
 
 
----
-
-### 📈 GitHub Stats:
-
-![Focusing](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
-
 
