@@ -17,13 +17,14 @@ I'm [NIdhin XaVier], a passionate [digital craftsman] from [india]. Welcome to m
 ### 🛠️ Languages and Tools:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![c](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg]()
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
+
 
 ---
 
 ### 📈 GitHub Stats:
 
-![hello](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![NDX7](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
 
