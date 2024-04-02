@@ -24,7 +24,7 @@ I'm [NIdhin XaVier], a passionate [digital craftsman] from [india]. Welcome to m
 
 ### 📈 GitHub Stats:
 
-![NDX7](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Focusing](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
 
