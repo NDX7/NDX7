@@ -1,14 +1,30 @@
+# Hi there! 👋
 
-<h1 align="center">Hi 👋, I'm Nidhin Xavier</h1>
-<h3 align="center">A passionate digital craftsman from India</h3>
+I'm [NIdhin XaVier], a passionate [digital craftsman] from [india]. Welcome to my GitHub profile!
 
-- 🌱 I’m currently learning **c , python**
 
-- 📫write to me at **nidihinxavier777@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🌱 **Currently learning**: [c and Python ]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+💬 **Ask me about**: [C and Python ]
+
+📫 **How to reach me**: [nidhinxavier777@gmail.com]
+
+
+---
+
+### 🛠️ Languages and Tools:
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![c](https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg]()
+
+---
+
+### 📈 GitHub Stats:
+
+![hello](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
+
+
