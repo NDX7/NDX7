@@ -8,9 +8,9 @@ I'm NIdhin XaVier, a passionate digital craftsman from india. Welcome to my GitH
 
 
 
-📫 **How to reach me**: [nidhinxavier777@gmail.com]
+📫 **How to reach me**: nidhinxavier777@gmail.com
 
-
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
 ---
 
 ### 🛠️ Languages and Tools:
