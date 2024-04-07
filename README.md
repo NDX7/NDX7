@@ -1,18 +1,16 @@
 # Hi there! 👋
 
-I'm NIdhin XaVier, a passionate digital craftsman from india. Welcome to my GitHub profile!
+I'm Nidhin Xavier 
 
 
 
-🌱 **Currently learning**: c and Python 
 
-
+🌱 **Currently **:doing bachlors degree in computer science and engineering(Cybersecurity)🔒 at st.josephs college of engineering and technology palai🏫 
 
 📫 **How to reach me**: nidhinxavier777@gmail.com
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
----
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2dKKKsdK7utChbsTx1W7kh&ust=1712558482242000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC6pNC_r4UDFQAAAAAdAAAAABAE
 ### 🛠️ Languages and Tools:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
