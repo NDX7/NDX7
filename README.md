@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndx7&label=Profile%20views&color=0e75b6&style=flat" alt="ndx7" /> </p>
 
-- 🌱 I’m currently studying **computer science and engineering(Cybersecurity)**
+- 🌱 I’m currently pursuing bachlors degree in  **computer science and engineering(Cybersecurity)**
 
 - 📫write to me at **nidihinxavier777@gmail.com**
 
